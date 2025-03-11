@@ -18,3 +18,5 @@ The code allows to load and test the trained model on a test split of the datase
 The data to test this model can be downloaded from: 
 https://drive.google.com/drive/folders/1ePYLE_NadaYyBDFTMpr69eHdK0ackIJ0?usp=sharing
 
+Tensorflow 2.11.0 required
+
